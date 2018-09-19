@@ -32,7 +32,7 @@ Git Alias is a collection of git version control shortcuts, functions, and comma
 
 Download the file `gitalias.txt` and put it anywhere you want:
 
-    curl -O https://raw.githubusercontent.com/GitAlias/gitalias/master/gitalias.txt
+    curl -O https://raw.githubusercontent.com/tbrd/gitalias/master/gitalias.txt
 
 Edit your file `.gitconfig` and include `gitalias.txt` such as:
 
